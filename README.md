@@ -1,5 +1,7 @@
 Bem vindo
 
+### Olá! Eu sou Ronilson.
+
 Bacharel em Engenharia de Computação pela Universidade Federal do Pará (UFPA), Mestre em Engenharia Elétrica (UFPA) na área de Redes 5G mmWave e Qualidade de Experiência (QoE), e Doutorando em Ciências Computacionais pela Universidade do Estado do Rio de Janeiro (UERJ). Com uma trajetória construída na interseção entre pesquisa acadêmica, ensino e tecnologia, meu foco está em resolver problemas complexos por meio do Aprendizado de Máquina, IA Explicável (XAI) e Ciência de Dados aplicada à saúde.
 
 Minha jornada me levou ao desenvolvimento e aplicação prática de modelos preditivos com impacto direto no mundo real. Como pesquisador e professor no CEFET/RJ, mantenho-me constantemente atualizado e atuante em áreas como:
